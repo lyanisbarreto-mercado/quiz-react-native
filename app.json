@@ -22,6 +22,9 @@
       },
       "edgeToEdgeEnabled": true
     },
+    "experiments": {
+  "baseUrl": "/quiz-react-native"
+     },
     "web": {
       "favicon": "./assets/favicon.png"
     }
